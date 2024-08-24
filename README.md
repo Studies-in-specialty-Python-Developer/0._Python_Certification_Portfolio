@@ -4,11 +4,11 @@
 
 ### 1. Python Starter 3.10
 
-<a href="./Test%20results%20for%20courses/1.%20Python%20Starter%203.10%20Test%20results.jpg" target="_blank">Certificate</a>
-
-[Python для начинающих](https://testprovider.com/ru/search-certificate/TP19851313)
+<a href="./Certificates%20for%20courses/1.%20Python%20Starter%203.10%20Certificate.jpg" target="_blank">Certificate</a>
 
 <a href="https://testprovider.com/ru/search-certificate/TP19851313">Certificate on TestProvider.com</a>
+
+<a href="./Test%20results%20for%20courses/1.%20Python%20Starter%203.10%20Test%20results.jpg" target="_blank">Test results</a>
 
 <details>
   <summary>Study Program</summary>
