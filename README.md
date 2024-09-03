@@ -69,3 +69,30 @@ results</a>
 10. Regular expressions
 
 </details>
+
+### 4. Python Advanced 3.10
+
+<a href="./Certificates%20for%20courses/3.%20Python%20Advanced%203.10%20Certificate.jpg" target="_blank">Certificate</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="./Test%20results%20for%20courses/3.%20Python%20Advanced%203.10%20Test%20results.jpg" target="_blank">Test
+results</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://testprovider.com/ru/search-certificate/TP22720228">Certificate on TestProvider.com</a>
+
+<details>
+  <summary>Study Program</summary>
+
+1. Elements of functional programming
+2. Working with the network
+3. Data warehouses
+4. SQLite. Syntax and queries
+5. Asynchronous programming in Python
+6. Multithreaded programming in Python
+7. Typed Python. Unit Testing
+8. Practical lesson. Scraping
+9. Practical lesson. SQLite
+10. Virtual environments
+
+</details>
+
+
