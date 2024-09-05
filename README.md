@@ -4,9 +4,9 @@
 
 ### 1. Python Starter 3.10
 
-<a href="./Certificates%20for%20courses/1.%20Python%20Starter%203.10%20Certificate.jpg" target="_blank">Certificate</a>
+<a href="./Courses_certificates/1._Python_Starter_3.10_Certificate.jpg" target="_blank">Certificate</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="./Test%20results%20for%20courses/1.%20Python%20Starter%203.10%20Test%20results.jpg" target="_blank">Test
+<a href="./Courses_test_results/1._Python_Starter_3.10_Test_results.jpg" target="_blank">Test
 results</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://testprovider.com/ru/search-certificate/TP19851313">Certificate on TestProvider.com</a>
@@ -29,9 +29,9 @@ results</a>
 
 ### 2. Git basics 2022
 
-<a href="./Certificates%20for%20courses/2.%20Git%20basics%202022%20Certificate.jpg" target="_blank">Certificate</a>
+<a href="./Courses_certificates/2._Git_basics_2022_Certificate.jpg" target="_blank">Certificate</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="./Test%20results%20for%20courses/2.%20Git%20basics%202022%20Test%20results.jpg" target="_blank">Test
+<a href="./Courses_test_results/2._Git_basics_2022_Test_results.jpg" target="_blank">Test
 results</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://testprovider.com/ru/search-certificate/TP29442845">Certificate on TestProvider.com</a>
@@ -47,10 +47,9 @@ results</a>
 
 ### 3. Python Essential 3.10
 
-<a href="./Certificates%20for%20courses/3.%20Python%20Essential%203.10%20Certificate.jpg" target="_blank">
-Certificate</a>
+<a href="./Courses_certificates/3._Python_Essential_3.10_Certificate.jpg" target="_blank">Certificate</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="./Test%20results%20for%20courses/3.%20Python%20Essential%203.10%20Test%20results.jpg" target="_blank">Test
+<a href="./Courses_test_results/3._Python_Essential_3.10_Test_results.jpg" target="_blank">Test
 results</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://testprovider.com/ru/search-certificate/TP72546223">Certificate on TestProvider.com</a>
@@ -73,9 +72,9 @@ results</a>
 
 ### 4. Python Advanced 3.10
 
-<a href="./Certificates%20for%20courses/4.%20Python%20Advanced%203.10%20Certificate.jpg" target="_blank">Certificate</a>
+<a href="./Courses_certificates/4._Python_Advanced_3.10_Certificate.jpg" target="_blank">Certificate</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="./Test%20results%20for%20courses/4.%20Python%20Advanced%203.10%20Test%20results.jpg" target="_blank">Test
+<a href="./Courses_test_results/4._Python_Advanced_3.10_Test_results.jpg" target="_blank">Test
 results</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://testprovider.com/ru/search-certificate/TP22720228">Certificate on TestProvider.com</a>
@@ -98,9 +97,9 @@ results</a>
 
 ### 5. Databases. PostgreSQL
 
-<a href="./Certificates%20for%20courses/5.%20Databases.%20PostgreSQL%20Certificate.jpg" target="_blank">Certificate</a>
+<a href="./Courses_certificates/5._Databases._PostgreSQL_Certificate.jpg" target="_blank">Certificate</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="./Test%20results%20for%20courses/5.%20Databases.%20PostgreSQL%20Test%20results.jpg" target="_blank">Test
+<a href="./Courses_test_results/5._Databases._PostgreSQL_Test_results.jpg" target="_blank">Test
 results</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://testprovider.com/ru/search-certificate/TP96877762">Certificate on TestProvider.com</a>
