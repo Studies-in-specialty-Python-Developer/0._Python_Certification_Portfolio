@@ -115,3 +115,27 @@ results</a>
 
 </details>
 
+### 6. Django Starter
+
+<a href="./Courses_certificates/6._Django_Starter_Certificate.jpg" target="_blank">Certificate</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="./Courses_test_results/6._Django_Starter_Test_results.jpg" target="_blank">Test
+results</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://testprovider.com/ru/search-certificate/TP42857906">Certificate on TestProvider.com</a>
+
+<details>
+  <summary>Study Program</summary>
+
+1. Introduction to Django
+2. Routing
+3. Templates and mappings
+4. The models
+5. The forms
+6. Django ORM and admin panel
+7. Django and REST. REST Overview, Django Rest Framework Overview
+8. Django application deployment
+9. Security in Django
+10. Practical lesson. A ToDo list creation
+
+</details>

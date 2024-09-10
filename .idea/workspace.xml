@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d025d10-85e9-4e3f-b840-f83951788142" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Certificates for courses/1. Python Starter 3.10 Certificate.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificates for courses/2. Git basics 2022 Certificate.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificates for courses/3. Python Essential 3.10 Certificate.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificates for courses/4. Python Advanced 3.10 Certificate.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Certificates for courses/5. Databases. PostgreSQL Certificate.jpg" beforeDir="false" />
+    <list default="true" id="6d025d10-85e9-4e3f-b840-f83951788142" name="Changes" comment="Files and directories have been renamed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test results for courses/1. Python Starter 3.10 Test results.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test results for courses/2. Git basics 2022 Test results.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test results for courses/3. Python Essential 3.10 Test results.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test results for courses/4. Python Advanced 3.10 Test results.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test results for courses/5. Databases. PostgreSQL Test results.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,40 +16,40 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SShGitHubUser"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SShGitHubUser&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Studies-in-specialty-Python-Developer/0._Python_Developer__Certification_Portfolio.git",
-    "accountId": "49369c84-a561-4729-8759-5b2ac12848f9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Studies-in-specialty-Python-Developer/0._Python_Developer__Certification_Portfolio.git&quot;,
+    &quot;accountId&quot;: &quot;49369c84-a561-4729-8759-5b2ac12848f9&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2lep7m78ZALAYCu7tvKSrGEDVti" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,8 +66,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725550232166</updated>
-      <workItem from="1725550233233" duration="662000" />
+      <workItem from="1725550233233" duration="3180000" />
+      <workItem from="1725557556311" duration="48000" />
+      <workItem from="1725974251407" duration="628000" />
     </task>
+    <task id="LOCAL-00001" summary="Files and directories have been renamed">
+      <option name="closed" value="true" />
+      <created>1725550959434</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725550959434</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Files and directories have been renamed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files and directories have been renamed" />
   </component>
 </project>
