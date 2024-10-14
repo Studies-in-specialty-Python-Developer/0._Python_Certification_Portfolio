@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d025d10-85e9-4e3f-b840-f83951788142" name="Changes" comment="Added certificate and test results for the &quot;Django_Starter&quot; course&#10;README.md updated">
+    <list default="true" id="6d025d10-85e9-4e3f-b840-f83951788142" name="Changes" comment="Added diploma and test results for the &quot;Python Developer&quot; course&#10;README.md updated">
+      <change afterPath="$PROJECT_DIR$/.idea/0. Python Developer  Certification Portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Courses_certificates/1._Python_Starter_3.10_Certificate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Certification/1._Python_Starter_3.10_Certificate.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Courses_certificates/2._Git_basics_2022_Certificate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Certification/2._Git_basics_2022_Certificate.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Courses_certificates/3._Python_Essential_3.10_Certificate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Certification/3._Python_Essential_3.10_Certificate.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Courses_certificates/4._Python_Advanced_3.10_Certificate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Certification/4._Python_Advanced_3.10_Certificate.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Courses_certificates/5._Databases._PostgreSQL_Certificate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Certification/5._Databases._PostgreSQL_Certificate.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Courses_certificates/6._Django_Starter_Certificate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Certification/6._Django_Starter_Certificate.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Courses_test_results/1._Python_Starter_3.10_Test_results.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Test_results/1._Python_Starter_3.10_Test_results.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Courses_test_results/2._Git_basics_2022_Test_results.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Test_results/2._Git_basics_2022_Test_results.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Courses_test_results/3._Python_Essential_3.10_Test_results.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Test_results/3._Python_Essential_3.10_Test_results.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Courses_test_results/4._Python_Advanced_3.10_Test_results.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Test_results/4._Python_Advanced_3.10_Test_results.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Courses_test_results/5._Databases._PostgreSQL_Test_results.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Test_results/5._Databases._PostgreSQL_Test_results.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Courses_test_results/6._Django_Starter_Test_results.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Test_results/6._Django_Starter_Test_results.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,20 +38,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Kolobok/Работа в IT/CyberBionic Systematics/0. Python Developer  Certification Portfolio",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,7 +77,9 @@
       <workItem from="1726065678423" duration="1663000" />
       <workItem from="1726154321260" duration="661000" />
       <workItem from="1726253448271" duration="1335000" />
-      <workItem from="1726495309759" duration="9729000" />
+      <workItem from="1726495309759" duration="10173000" />
+      <workItem from="1726668556052" duration="74000" />
+      <workItem from="1728929338167" duration="3787000" />
     </task>
     <task id="LOCAL-00001" summary="Files and directories have been renamed">
       <option name="closed" value="true" />
@@ -103,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725975152068</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added diploma and test results for the &quot;Python Developer&quot; course&#10;README.md updated">
+      <option name="closed" value="true" />
+      <created>1726507430850</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726507430850</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Files and directories have been renamed" />
     <MESSAGE value="Added certificate and test results for the &quot;Django_Starter&quot; course&#10;README.md updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added certificate and test results for the &quot;Django_Starter&quot; course&#10;README.md updated" />
+    <MESSAGE value="Added diploma and test results for the &quot;Python Developer&quot; course&#10;README.md updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added diploma and test results for the &quot;Python Developer&quot; course&#10;README.md updated" />
   </component>
 </project>

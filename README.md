@@ -212,3 +212,29 @@ results</a>
 10. Practical lesson. A ToDo list creation
 
 </details>
+
+### &nbsp;&nbsp;&nbsp;&nbsp;Other certificates
+
+#### HTML5 & CSS3 Starter
+<a href="./Certification/HTML5_&_CSS3_Starter_Certificate.jpg" target="_blank">Certificate</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="./Test_results/HTML5_&_CSS3_Starter_Test_results.jpg" target="_blank">Test
+results</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://testprovider.com/ru/search-certificate/TP24404857">Certificate on TestProvider.com</a>
+
+#### JavaScript Starter
+<a href="./Certification/JavaScript_Starter_Certificate.jpg" target="_blank">Certificate</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="./Test_results/JavaScript_Starter_Test_results.jpg" target="_blank">Test
+results</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://testprovider.com/ru/search-certificate/TP13025243">Certificate on TestProvider.com</a>
+
+#### C++ Starter
+<a href="./Certification/C++_Starter_Certificate.jpg" target="_blank">Certificate</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="./Test_results/C++_Starter_Test_results.jpg" target="_blank">Test
+results</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://testprovider.com/ru/search-certificate/TP07430920">Certificate on TestProvider.com</a>
